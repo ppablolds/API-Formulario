@@ -56,5 +56,14 @@ Execute a classe (Run As Java Application).
 🌍 Endpoints da API
 Após a execução, a API estará acessível em http://localhost:8080/email/send.
 
+## Exemplo usando Postman
+````json
+{
+    "to": "seu_email@gmail.com",
+    "subject": "Tester",
+    "body": "This is a Tester!"
+}
+````
+
 🧑‍💻 Desenvolvedor
 Pablo Silva - Desenvolvedor Backend
